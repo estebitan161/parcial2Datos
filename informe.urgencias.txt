@@ -1,0 +1,26 @@
+
+ entrada de pacientes 
+Entro un paciente con nombre Juan Fernández con cedula 9074510661 Peso 55  y edad 33
+El paciente Juan Fernández se le asigno Urgencias Normales
+
+ entrada de pacientes 
+Entro un paciente con nombre María Pérez con cedula 2694883155 Peso 58  y edad 90
+El paciente María Pérez se le asigno Estabilidad Urgente
+
+ atencion de pacientes
+el paciente María se le asignara estabilización
+el paciente María se ira para: morgue
+
+ atencion de pacientes
+el paciente Juan se le asignara procedimientos curativos
+el paciente Juan se ira para: espeicialista
+
+ atencion de pacientes
+
+ 
+ registro de pacientes 
+ 
+ 
+ el paciente María Pérez con cedula 2694883155 Peso 58  y edad 90 se le asigno Estabilidad Urgente y se le dio estabilización y se le dio de salida morgue
+ 
+ el paciente Juan Fernández con cedula 9074510661 Peso 55  y edad 33 se le asigno Urgencias Normales y se le dio procedimientos curativos y se le dio de salida espeicialista
